@@ -1,4 +1,5 @@
-
+::text
+    FF96 6261 C995 1DDE BF34 
 <p align="center">
     <h3 align="center">Simple React Webpack Babel Starter Kit<br></h3>
 </p>
